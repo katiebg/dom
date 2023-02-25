@@ -1,2 +1,2 @@
 # dom
-https://<ваш логин>.github.io/<название репозитория>/
+https://katiebg.github.io/dom/
