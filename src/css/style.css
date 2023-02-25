@@ -1,3 +1,21 @@
 body {
     color: #999;
+    
+}
+
+.board{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #450b0b;
+    margin: auto;  
+    width: 480px;  
+    height: 480px;
+}
+
+.cell{
+    width: 120px;
+    height: 120px;
+    background-color: rgb(166, 223, 246); 
+    margin: 1px;  
+    border: 1px black;    
 }
